@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">World Time Lock</string>
+    <string name="hero_subtitle">Global Chronometer &amp; Reference Time Lock</string>
+    <string name="mode_live">LIVE WORLD TIME</string>
+    <string name="mode_locked">TIME LOCKED</string>
+    <string name="btn_lock_time">Lock Time</string>
+    <string name="btn_unlock_live">Resume Live</string>
+    <string name="btn_reset_now">Reset to Now</string>
+    <string name="search_countries_hint">Search 240+ countries, capitals, or UTC…</string>
+    <string name="tab_world_clock">All Countries</string>
+    <string name="tab_time_lock">Time Lock Matrix</string>
+    <string name="tab_solar_map">UTC &amp; Solar</string>
+    <string name="format_24h">24H</string>
+    <string name="format_12h">12H</string>
+    <string name="anchor_country_label">Anchor Reference</string>
+    <string name="set_as_anchor">Set as Time Lock Anchor</string>
+    <string name="pin_country">Pin to Time Lock Matrix</string>
+    <string name="unpin_country">Unpin Country</string>
+    <string name="empty_countries_title">No matching countries found</string>
+    <string name="empty_countries_subtitle">Try searching by country name, capital city, ISO code, or UTC offset.</string>
+    <string name="empty_pinned_title">No pinned countries in your Time Lock Matrix</string>
+    <string name="empty_pinned_subtitle">Tap the pin icon on any country to compare 24-hour timelines side-by-side.</string>
+</resources>

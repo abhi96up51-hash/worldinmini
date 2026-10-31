@@ -1,0 +1,6 @@
+{
+  "name": "World Time Lock",
+  "description": "Global world clock and precision time lock converter for all countries and territories across the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
